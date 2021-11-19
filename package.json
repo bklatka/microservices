@@ -5,11 +5,14 @@
   "description": "Test application to play around with microfrontends",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "lerna run start --parallel"
   },
   "author": "",
   "license": "ISC",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
 }
