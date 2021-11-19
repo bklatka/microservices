@@ -5,6 +5,7 @@
   "description": "Test application to play around with microfrontends",
   "main": "index.js",
   "scripts": {
+    "install-deps": "lerna run install --parallel",
     "start": "lerna run start --parallel"
   },
   "author": "",

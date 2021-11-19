@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/packages/navbar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/product-list" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/root" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/store" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/ui-kit" vcs="Git" />
   </component>
 </project>

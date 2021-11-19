@@ -17,3 +17,7 @@
 [submodule "packages/root"]
     path = packages/root
     url = git@github.com:kage-microservices/root-config.git
+
+[submodule "packages/store"]
+    path = packages/store
+    url = git@github.com:kage-microservices/store.git
