@@ -1,0 +1,19 @@
+[submodule "packages/home-page"]
+	path = packages/home-page
+	url = git@github.com:kage-microservices/homepage.git
+
+[submodule "packages/ui-kit"]
+	path = packages/ui-kit
+	url = git@github.com:kage-microservices/ui-kit.git
+
+[submodule "packages/navbar"]
+	path = packages/navbar
+	url = git@github.com:kage-microservices/navbar.git
+
+[submodule "packages/product-list"]
+	path = packages/product-list
+	url = git@github.com:kage-microservices/product-list.git
+
+[submodule "packages/root"]
+    path = packages/root
+    url = git@github.com:kage-microservices/root-config.git
